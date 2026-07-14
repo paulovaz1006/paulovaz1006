@@ -1,4 +1,13 @@
 ## Olá!! eu sou Paulo Vaz
+<p>Formado em Análise e Desenvolvimento de Sistemas, tenho uma sólida experiência na área de tecnologia desde 2016. Busco constantemente as melhores e mais inovadoras soluções corporativas para impulsionar o sucesso das empresas.<br/>
+
+Com uma paixão genuína pela tecnologia, estou sempre atualizado e entusiasmado com as últimas tendências e avanços do setor. Tenho conhecimento em TDD (Test-Driven Development), arquitetura limpa, design patterns e arquitetura de sistemas. Essas habilidades me permitem desenvolver software robusto, escalável e de alta qualidade.<br/>
+
+Meu objetivo é colaborar com equipes de alto desempenho, enfrentar desafios complexos e contribuir para o crescimento e transformação das organizações. Tenho habilidades sólidas em desenvolvimento de software, análise de requisitos e gerenciamento de projetos. Sou proativo, focado e comprometido em entregar resultados excepcionais. Além disso, possuo excelente capacidade de trabalho em equipe e comunicação eficaz.<br/>
+
+Estou em busca de novas oportunidades que me permitam aplicar minha expertise, expandir meus conhecimentos e fazer parte de projetos inovadores. Se você procura um profissional dedicado, apaixonado pela tecnologia e pronto para enfrentar desafios, estou pronto para contribuir para o sucesso da sua empresa. Vamos juntos criar um futuro melhor através da tecnologia!
+
+</p>
 <div>
   <a href="https://github.com/paulovaz1006">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulovaz1006&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
