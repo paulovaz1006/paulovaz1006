@@ -8,11 +8,7 @@ Meu objetivo é colaborar com equipes de alto desempenho, enfrentar desafios com
 Estou em busca de novas oportunidades que me permitam aplicar minha expertise, expandir meus conhecimentos e fazer parte de projetos inovadores. Se você procura um profissional dedicado, apaixonado pela tecnologia e pronto para enfrentar desafios, estou pronto para contribuir para o sucesso da sua empresa. Vamos juntos criar um futuro melhor através da tecnologia!
 
 </p>
-<div>
-  <a href="https://github.com/paulovaz1006">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulovaz1006&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulovaz1006&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="PVaz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="PVaz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
